@@ -1,0 +1,1 @@
+Part of the Bioinformatics Practical Assignment, this is an implementation of the Needleman-Wunsch algorithm in C
